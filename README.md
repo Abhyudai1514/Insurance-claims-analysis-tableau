@@ -1,4 +1,4 @@
-# 🚗 Car Insurance Claims Analysis using Tableau
+# 🚗 Vehicle Insurance Claims Analysis using Tableau
 
 ## 📌 Project Overview
 
